@@ -1,0 +1,12 @@
+Timestamp: 2024-06-24 13:43:24
+Remetente: example1@gmail.com
+Destinatário: recipient1@example.com
+
+Timestamp: 2024-06-24 13:50:22
+Remetente: example1@gmail.com
+Destinatário: recipient1@example.com
+
+Timestamp: 2024-06-24 14:09:32
+Remetente: example1@gmail.com
+Destinatário: recipient1@example.com
+
